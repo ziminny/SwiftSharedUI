@@ -16,7 +16,6 @@
 		C743B5582CA7574D00F5C8C1 /* DSMPredefinedTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C743B5572CA7574D00F5C8C1 /* DSMPredefinedTitle.swift */; };
 		C765FC8A2CA62A8C00AE12F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C765FC872CA62A8C00AE12F0 /* ContentView.swift */; };
 		C765FC8B2CA62A8C00AE12F0 /* SharedUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C765FC882CA62A8C00AE12F0 /* SharedUIApp.swift */; };
-		C765FC8C2CA62A8C00AE12F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C765FC862CA62A8C00AE12F0 /* Assets.xcassets */; };
 		C765FC8D2CA62A8C00AE12F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C765FC842CA62A8C00AE12F0 /* Preview Assets.xcassets */; };
 		C7AB8C472CAB0D6F00484839 /* DSMDefaultButtonDecorator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AB8C462CAB0D6F00484839 /* DSMDefaultButtonDecorator.swift */; };
 		C7AB8C4A2CAB0E0100484839 /* DSMWrapperScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AB8C492CAB0E0100484839 /* DSMWrapperScreen.swift */; };
@@ -30,7 +29,6 @@
 		C7B31FD82CAA114D001BB1D7 /* View+Loading.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7B31FD72CAA114D001BB1D7 /* View+Loading.swift */; };
 		C7F3BBDC2CA62B9D002B4391 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = C7F3BBCF2CA62B9D002B4391 /* .gitkeep */; };
 		C7F3BBDE2CA62B9D002B4391 /* PasseiDSM.podspec in Resources */ = {isa = PBXBuildFile; fileRef = C7F3BBD92CA62B9D002B4391 /* PasseiDSM.podspec */; };
-		C7F3BBDF2CA62B9D002B4391 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C7F3BBD52CA62B9D002B4391 /* .gitignore */; };
 		C7F3BBE02CA62B9D002B4391 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C7F3BBD82CA62B9D002B4391 /* LICENSE */; };
 		C7F3BBE12CA62B9D002B4391 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = C7F3BBD62CA62B9D002B4391 /* .travis.yml */; };
 		C7F3BBE22CA62B9D002B4391 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C7F3BBDA2CA62B9D002B4391 /* README.md */; };
@@ -56,7 +54,6 @@
 		C743B5572CA7574D00F5C8C1 /* DSMPredefinedTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSMPredefinedTitle.swift; sourceTree = "<group>"; };
 		C765FC602CA62A4400AE12F0 /* SharedUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SharedUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C765FC842CA62A8C00AE12F0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C765FC862CA62A8C00AE12F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C765FC872CA62A8C00AE12F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C765FC882CA62A8C00AE12F0 /* SharedUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedUIApp.swift; sourceTree = "<group>"; };
 		C7AB8C462CAB0D6F00484839 /* DSMDefaultButtonDecorator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSMDefaultButtonDecorator.swift; sourceTree = "<group>"; };
@@ -77,7 +74,6 @@
 		C7F3BBC32CA62B9D002B4391 /* SMPasseiGlobal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SMPasseiGlobal.swift; sourceTree = "<group>"; };
 		C7F3BBC42CA62B9D002B4391 /* SMGeometryProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SMGeometryProvider.swift; sourceTree = "<group>"; };
 		C7F3BBCF2CA62B9D002B4391 /* .gitkeep */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		C7F3BBD52CA62B9D002B4391 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		C7F3BBD62CA62B9D002B4391 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 		C7F3BBD82CA62B9D002B4391 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C7F3BBD92CA62B9D002B4391 /* PasseiDSM.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = PasseiDSM.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -137,7 +133,6 @@
 			children = (
 				C7F3BBDB2CA62B9D002B4391 /* PasseiDSM */,
 				C765FC852CA62A8C00AE12F0 /* Preview Content */,
-				C765FC862CA62A8C00AE12F0 /* Assets.xcassets */,
 				C765FC872CA62A8C00AE12F0 /* ContentView.swift */,
 				C765FC882CA62A8C00AE12F0 /* SharedUIApp.swift */,
 			);
@@ -224,7 +219,6 @@
 			isa = PBXGroup;
 			children = (
 				C7F3BBD42CA62B9D002B4391 /* PasseiDSM */,
-				C7F3BBD52CA62B9D002B4391 /* .gitignore */,
 				C7F3BBD62CA62B9D002B4391 /* .travis.yml */,
 				C7F3BBD82CA62B9D002B4391 /* LICENSE */,
 				C7F3BBD92CA62B9D002B4391 /* PasseiDSM.podspec */,
@@ -315,11 +309,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C765FC8C2CA62A8C00AE12F0 /* Assets.xcassets in Resources */,
 				C765FC8D2CA62A8C00AE12F0 /* Preview Assets.xcassets in Resources */,
 				C7F3BBDC2CA62B9D002B4391 /* .gitkeep in Resources */,
 				C7F3BBDE2CA62B9D002B4391 /* PasseiDSM.podspec in Resources */,
-				C7F3BBDF2CA62B9D002B4391 /* .gitignore in Resources */,
 				C7F3BBE02CA62B9D002B4391 /* LICENSE in Resources */,
 				C7F3BBE12CA62B9D002B4391 /* .travis.yml in Resources */,
 				C7F3BBF22CA63420002B4391 /* Assets.xcassets in Resources */,
